@@ -2,7 +2,7 @@
 Bad Apple!! をCLI上で表示
 
 ## デモ
-<video src="./demo.mov" controls="true"></video>
+https://github.com/user-attachments/assets/8d667d95-9517-4cb5-9d2c-dcb3956098f1
 
 ## 使い方
 ```bash
